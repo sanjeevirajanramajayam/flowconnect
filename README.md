@@ -39,7 +39,7 @@ Frontend (React + Vite) ↓ Express Server (Production Hosting) ↓ Local Auth B
 ---
 
 ## 📁 Project Structure
-
+```
 ├── .github/ 
 ├── flowconnect/ 
 ├── public/ 
@@ -71,6 +71,7 @@ Frontend (React + Vite) ↓ Express Server (Production Hosting) ↓ Local Auth B
 ├── ARCHITECTURE.md
 ├── INTEGRATIONS.md
 ├── LICENSE
+```
 ---
 
 ## 🚀 Quick Start
@@ -246,7 +247,7 @@ Scalable integration ecosystem
 
 👨‍💻 Maintainers
 
-Priyansh Chaurasiya – Frontend developer|Ui/Ux designer
+Priyansh Chaurasiya – Frontend developer| UI/UX designer
 
 Priyanshi Sharma – Machine Learning Engineer | Full Stack Developer
 
